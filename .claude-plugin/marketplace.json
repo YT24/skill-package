@@ -1,0 +1,10 @@
+{
+  "name": "java-pattern-skills",
+  "source": {
+    "source": "url",
+    "url": "https://github.com/YT24/skill-package.git"
+  },
+  "description": "Java design pattern skills: instructor for implementing GoF 23 patterns and reviewer for code review",
+  "version": "1.0.0",
+  "strict": true
+}

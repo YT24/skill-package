@@ -1,6 +1,6 @@
 ---
 name: java-pattern-reviewer
-description: 审查 Java/Spring Boot 项目中的设计模式落地是否合理，并给出最小整改建议
+description: Use when reviewing existing Java/Spring Boot design pattern implementations, checking for over-engineering, pattern misplacement, layer violations, or unclear collaboration boundaries, and needing minimum fix suggestions.
 ---
 
 # Overview
